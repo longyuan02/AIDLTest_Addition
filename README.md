@@ -2,7 +2,6 @@
 annotation 工程说明
 # moudle
     |-AIDLmoudle 测试AIDL
-    |-
 
 # 使用注意事项
     |-AIDLmoudle   IPC   多应用    多线程
