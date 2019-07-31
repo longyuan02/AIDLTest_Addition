@@ -1,4 +1,3 @@
-# AIDLTest_Addition
 annotation 工程说明
 # moudle
     |-AIDLmoudle 测试AIDL
@@ -23,7 +22,7 @@ annotation 工程说明
     |-AIDL有任何形式的参数和返回值
     |-除默认基本类型 均需要导包 (在类名.AIDL中声明 parcelable 类--aidl文件中import导入)
 
-https://github.com/longyuan02/AIDLTest_Addition.git
+
 
 
 
